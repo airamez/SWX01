@@ -1,5 +1,7 @@
 # Content
-
+* About the course
+  * Aiming folks without Software Engineering background
+  * The goal is to prepare the participat to take advantage of AI to work with software
 * Software Enginer after AI
   * AI changed Software Engineering drastically
   * No need to type code anymore

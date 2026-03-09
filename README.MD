@@ -1,22 +1,35 @@
 # Content
 
+* Software Enginer after AI
+  * AI changed Software Engineering drastically
+  * No need to type code anymore
+  * Almost all software Enginnering are turning into AI "Manager"
+    * Still need to micromanager and review all results
+    * AI Aluciation is real and looks like un-avoidable
+  * AI can do most of the tasks, from simple to complex
+  * Important to know the fundamentals
 * Intro to computing
+  * Abstraction
+  * How a computer stores information
   * Information, bit and byte
-  * How a computer store information
+    * Binary system
 * Intro to software engineering
   * Applications types
     * Console
-    * Web
     * Windows
+    * Web
     * Mobile
     * Webservices and APIs
   * Software Architecture
-    * Frontend, Backend, and Database
+    * Frontend / UI
+    * Backend
+    * Database
 * Coding
   * Variables
   * Operators
-  * Control Commands
+  * Commands
   * Functions
+  * API
   * Data Structures
 * Object Oriented Programming
 * SQL

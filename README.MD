@@ -25,6 +25,10 @@
 * Coding
   * Accessing the content
     * https://github.com/airamez/SWX01
+    * Download
+    * Clone with git
+      * [Install git](https://github.com/git-guides/install-git)
+      * `git clone https://github.com/airamez/SWX01`
   * IDE - Integrated Development Environment / Code Editor
     * Online
       * https://app.coderpad.io/sandbox

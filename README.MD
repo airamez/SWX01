@@ -38,7 +38,7 @@
     * [Visual Studio Code](https://code.visualstudio.com/) (Free)
     * [IntelliJ](https://www.jetbrains.com/idea/)
     * etc.
-    * How to setup a pr0ject with VSCODE
+    * How to setup a project with VSCODE
       1. Install [Visual Studio Code](https://code.visualstudio.com/)
       2. Install the **C# Dev Kit** extension: open VS Code → `Ctrl+Shift+X` → search for `C# Dev Kit` → click **Install**
       3. Install the [.NET SDK](https://dotnet.microsoft.com/download) (version 10 or later)

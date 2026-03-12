@@ -33,13 +33,15 @@ Types
 
  */
 
-public class Variables
+public class VariablesDemo
 {
     public static void Run()
     {
         // int
 
         // decinmal
+
+        // bool
 
         // string
     }

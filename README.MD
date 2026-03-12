@@ -56,6 +56,7 @@
   * Array
   * Functions
   * Object Oriented Programming
+  * Exceptions
   * API
     * Math
     * Random

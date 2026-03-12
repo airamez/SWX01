@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Welcome to the C# Coding Introduction!");
+
+Variables.Run();

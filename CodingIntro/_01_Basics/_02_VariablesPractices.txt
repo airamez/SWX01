@@ -13,7 +13,7 @@ Create programs to:
 10. Read the name, salary and salary increase percentage and 
     print the name and the new salary.
 11. Read the name, salary, years of experience and the numbers of kids of a employee and
-    calculate the name and the new salary using the following formula: 
+    print the name and the new salary using the following formula:
     - 0.5% per year of experience
     - 2% per kid
 12. Read two integer numbers and swap the variables content
@@ -23,3 +23,4 @@ Create programs to:
 15. Read an integer number with 6 digits and generate a new number with the digits in reverse order
 16. Read the description, quantity and unit price of 3 products in a shopping cart and 
     print the total sales tax and the total order amount. The sales tax is 12%
+17. Find something related to your current tasks and implement a program to solve it
